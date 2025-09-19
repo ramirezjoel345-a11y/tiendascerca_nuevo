@@ -1,0 +1,35 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+coverage/
+
+# Android
+android/.gradle/
+android/local.properties
+android/app/build/
+android/build/
+*.iml
+
+# iOS / macOS
+ios/Pods/
+ios/Flutter/ephemeral/
+macos/Pods/
+macos/Flutter/ephemeral/
+
+# Linux / Windows
+# (las salidas se generan dentro de build/, ya queda cubierto arriba)
+
+# Web
+web/.dart_tool/
+web/build/
+
+# IDE
+.vscode/
+.idea/
+
+# Otros
+*.log
+.DS_Store
